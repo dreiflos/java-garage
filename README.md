@@ -19,11 +19,11 @@ Funciona como uma barreira de segurança, validando as credenciais (login e senh
 <b>Usuários Cadastrados (Exclusivo para Administradores)</b><br>
 Esta interface é acessível apenas por administradores e permite o gerenciamento completo dos usuários.
 
-  Funcionalidades:
-    Consultar usuários por nome.
-    Listar usuários.
-    Remover usuários.
-    Adicionar novos usuários administradores.
-    Catálogo de Veículos
+  Funcionalidades:<br><br>
+    Consultar usuários por nome.<br>
+    Listar usuários.<br>
+    Remover usuários.<br>
+    Adicionar novos usuários administradores.<br>
+    Catálogo de Veículos<br>
 
 As funcionalidades e privilégios de acesso ao catálogo de veículos são determinados pelo nível de permissão do usuário.
